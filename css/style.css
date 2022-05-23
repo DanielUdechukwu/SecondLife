@@ -10,6 +10,11 @@
   background-position: center;
   background-attachment: fixed;
 }
-.fnt{
-  font-size: 4rem;
+.testimonial-box{
+  position: relative;
+}
+.testimonial-item img{
+  position: absolute;
+  left: -48px;
+  top: 20px;
 }
